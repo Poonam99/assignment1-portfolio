@@ -1,0 +1,184 @@
+body {
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+
+}
+
+* {
+    margin-top: 0;
+    box-sizing: 0px auto;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.blue-color {
+    color: white;
+}
+
+.cover-container {
+    text-align: center;
+    position: absolute;
+    width: 826px;
+    height: 220px;
+    margin-left: 307px;
+    margin-top: 174px;
+}
+
+.cover-background {
+
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.link-button {
+    background-image: linear-gradient(tomato, orange);
+    color: black;
+    padding: 10px 30px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.squre-shape {
+    width: 130px;
+    height: 100px;
+    background: rgb(21, 74, 83);
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-left: 15px;
+
+}
+
+.squre-shape-red {
+    width: 130px;
+    height: 100px;
+    background: rgb(83, 21, 47);
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-left: 15px;
+
+
+}
+
+.squre-shape-container {
+    display: flex;
+    margin-left: -25px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.text-align {
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    text-align: center;
+    color: aqua;
+    margin-top: 25px;
+
+}
+
+.second-section {
+    text-align: center;
+
+}
+
+.second-donate-button {
+    background-image: linear-gradient(tomato, orange);
+    color: black;
+    padding: 12px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-left: 650px;
+}
+
+.tk-input {
+    border: 0;
+    outline: 0;
+    border-bottom: 1px solid gray;
+    text-align: center;
+    width: 750px;
+    margin-bottom: 30px;
+    margin-left: 350px;
+}
+
+.plan-partfolio {
+    height: 250px;
+    width: 300px;
+    border-radius: 4px;
+    padding: 20px;
+}
+
+.third-section-1 {
+    background-color: blanchedalmond;
+    margin-right: 25px;
+}
+
+.third-section-2 {
+    background-color: aquamarine;
+    margin-right: 25px;
+}
+
+.third-section-3 {
+    background-color: azure;
+}
+
+.third-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+}
+
+.margin-shape-image {
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+.third {
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+    margin-bottom: 0;
+    color: white;
+    text-align: center;
+}
+
+.fourth {
+    text-align: center;
+}
+
+.fourth-section {
+    display: flex;
+    height: 200px;
+    width: 800px;
+    background-color: #FFF4D6;
+    margin-left: 350px;
+}
+
+.email {
+    border-radius: 5px 0px 0px 5px;
+    height: 50px;
+    width: 275px;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+
+.subscribe-button {
+    text-decoration: none;
+    border-radius: 0px 5px 5px 0px;
+    margin-top: 70px;
+    height: 26px;
+    width: 80px;
+    padding: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+    background-image: linear-gradient(tomato, orange);
+}
